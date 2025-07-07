@@ -76,7 +76,8 @@ salary expection：阿德10-12，悉尼13-15，墨尔本12-14     降到mid-leve
 我之前在公司里做了什么功能，有abc技术，match this role very well，这个role metch 我的 expection
 
 过去的工作经验：
-3条，第一条：过去的做了什么功能
+3条，
+第一条：过去的做了什么功能
 有什么技能
 达到了什么achievement
 
